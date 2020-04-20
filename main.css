@@ -1,0 +1,66 @@
+h1 {
+  text-align: center;
+}
+
+#scoreboard {
+  margin: auto;
+  text-align: center;
+  border-radius: 25px;
+  background: #73AD21;
+  padding: 20px;
+  width: 200px;
+  height: 20px;
+}
+
+#buttons {
+  text-align: center;
+  margin: auto;
+  margin-top: 10px;
+}
+
+#restart_button {
+  text-align: center;
+  margin: auto;
+  margin-top: 10px;
+}
+
+#restart {
+  font-size: 15px;
+  color: white;
+  background-color: black;
+}
+
+#rock {
+  font-size: 15px;
+  background-color: green;
+}
+
+#paper {
+  font-size: 15px;
+  background-color: red;
+}
+
+#scissors {
+  font-size: 15px;
+  background-color: orange;
+}
+
+#results {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 20px;
+}
+
+#winner {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 20px;
+  color: green;
+}
+
+#loser {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 20px;
+  color: red;
+}
